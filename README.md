@@ -29,8 +29,9 @@ This is a simple implementation of the classic Snake Game using Python. The game
 # Contact
 * For any inquiries or suggestions, please contact praku8875@gmail.com.
 
+
 Enjoy playing the Snake Game! 🐍
 
-![Screenshot (38)](https://github.com/Prashantkr57/Classic_Snake_Game/assets/67437394/0f1d4ab1-fd06-4205-a883-f411772ec55b)
+![Screenshot (37)](https://github.com/Prashantkr57/Classic_Snake_Game/assets/67437394/391b1801-2cbc-4059-bf5f-d89c3caac76a)
 
 ![Screenshot (37)](https://github.com/Prashantkr57/Classic_Snake_Game/assets/67437394/2eafb418-28d9-4e9b-b8cd-9ac407130706)
